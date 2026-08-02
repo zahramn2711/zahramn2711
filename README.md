@@ -23,3 +23,4 @@ Connect
 
 LinkedIn: https://www.linkedin.com/in/zahra-mohammadinezhad-a42395237
 Turin, Italy · zahra.mohammadinezha@edu.unito.it
+zahramohamadinezhad27@gmail.com
