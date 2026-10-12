@@ -2,7 +2,7 @@ Zahra Mohammadinezhad
 
 MSc student in Language Technologies and Digital Humanities at the University of Turin. My background is in linguistics, but I work mostly on the computational side — NLP pipelines, data preprocessing, model evaluation, data analysis.
 
-I'm looking for data analyst or NLP internships in Italy.
+
 
 What I work with
 
